@@ -1,1 +1,1 @@
-print("Welcome to the Python prog")
+print("Welcome to ubuntu Python prog")
